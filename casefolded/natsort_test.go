@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/fvbommel/sortorder"
+	"github.com/WithoutPants/sortorder"
 )
 
 func TestStringSortAscii(t *testing.T) {
